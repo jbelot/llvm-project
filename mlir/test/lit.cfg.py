@@ -158,6 +158,7 @@ tools.extend(
         ToolSubst("toyc-ch5", unresolved="ignore"),
         ToolSubst("toyc-ch6", unresolved="ignore"),
         ToolSubst("toyc-ch7", unresolved="ignore"),
+        ToolSubst("toyc-lab", unresolved="ignore"),
         ToolSubst("transform-opt-ch2", unresolved="ignore"),
         ToolSubst("transform-opt-ch3", unresolved="ignore"),
         ToolSubst("transform-opt-ch4", unresolved="ignore"),

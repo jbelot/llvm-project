@@ -6574,6 +6574,26 @@ tree in terms of conformance to :doc:`ClangFormat` as of: March 06, 2022 17:32:2
      - `0`
      - `1`
      - :none:`0%`
+   * - mlir/examples/toy/Lab
+     - `1`
+     - `1`
+     - `0`
+     - :good:`100%`
+   * - mlir/examples/toy/Lab/include/toy
+     - `7`
+     - `7`
+     - `0`
+     - :good:`100%`
+   * - mlir/examples/toy/Lab/mlir
+     - `5`
+     - `5`
+     - `0`
+     - :good:`100%`
+   * - mlir/examples/toy/Lab/parser
+     - `1`
+     - `0`
+     - `1`
+     - :none:`0%`
    * - mlir/include/mlir
      - `5`
      - `5`
