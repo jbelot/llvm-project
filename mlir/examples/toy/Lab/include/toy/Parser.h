@@ -459,6 +459,8 @@ private:
     switch (static_cast<char>(lexer.getCurToken())) {
     case '+':
       return 20;
+    case '-':
+      return 20;
     case '*':
       return 40;
     default:
